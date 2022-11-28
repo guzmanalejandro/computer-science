@@ -3,7 +3,7 @@
 
 > **Note**
 > 
-> Podeu accedir directament als arxius utilitzant `https://guzmanrq.github.io/computer-science/${PATH}`, where `${PATH}` corresponds to its address within the repository. For example, if you want to consult the Data Structures notes, `https://guzmanrq.github.io/computer-science/1/first-semester/DS/DS.pdf`.
+> You can directly access the files using `https://guzmanrq.github.io/computer-science/${PATH}`, where `${PATH}` corresponds to its address within the repository. For example, if you want to consult the Data Structures notes, `https://guzmanrq.github.io/computer-science/1/first-semester/DS/DS.pdf`.
 
 
 
@@ -24,7 +24,7 @@
   - Data Structures
   - Programming II
 
-:white_check_mark: Seoond course
+:eight_pointed_black_star: Second course
 ---
 - Third semester
   - Advanced Algorithmic
