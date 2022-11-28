@@ -1,6 +1,6 @@
 # :computer: Computer Science, UB :hourglass:
 ### These notes and exercises are part of the itinerary of the degree in Computer Science at the University of Barcelona, taken between 2020 and (hopefully) 2024.
-If you have any questions regarding any section of the repository, do not hesitate to contact me at alejandroguzman.dg@gmail.com
+### If you have any questions regarding any section of the repository, do not hesitate to contact me [*contact me*](alejandroguzman.dg@gmail.com).
 
 > **Note**
 > 
