@@ -5,7 +5,7 @@
 
 > **Note**
 > 
-> You can directly access the files using `https://guzmanalejandro.github.io/computer-science/${PATH}`, where `${PATH}` corresponds to its address within the repository. For example, if you want to consult the Data Structures notes, `https://guzmanalejandro.github.io/computer-science/1/first-semester/DS/DS.pdf`.
+> You can directly access the files using `https://guzmanalejandro.github.io/computer-science/${PATH}`, where `${PATH}` corresponds to its address within the repository. For example, if you want to consult the Data Structures notes, `https://guzmanalejandro.github.io/computer-science/first-course/second-semester/data-structures/data-structures-notes.pdf`.
 
 :white_check_mark: First course
  ---
