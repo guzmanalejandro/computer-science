@@ -1,11 +1,11 @@
 # Computer Science, Universitat de Barcelona
 ### These notes and exercises are part of the itinerary of the degree in Computer Science at the University of Barcelona, taken between 2020 and (hopefully) 2024.
 
+### Below is a list of the subjects of the degree ordered by year and by semester, in order to help the reader orient himself and help his search if it's specific.
+
 > **Note**
 > 
 > You can directly access the files using `https://guzmanalejandro.github.io/computer-science/${PATH}`, where `${PATH}` corresponds to its address within the repository. For example, if you want to consult the Data Structures notes, `https://guzmanalejandro.github.io/computer-science/1/first-semester/DS/DS.pdf`.
-
-### Below is a list of the subjects of the degree ordered by year and by semester, in order to help the reader orient himself and help his search if it's specific.
 
 :white_check_mark: First course
  ---
