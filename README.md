@@ -27,7 +27,7 @@
   - Data Structures
   - Programming II
 
-:eight_pointed_black_star: Second course
+:white_check_mark: Second course
 ---
 - Third semester
   - Advanced Algorithmic
