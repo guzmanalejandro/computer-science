@@ -1,0 +1,2 @@
+analisi_multifil_productor_consumidor: analisi_multifil_productor_consumidor.c
+	gcc analisi_multifil_productor_consumidor.c -o analisi_multifil_productor_consumidor -lpthread
